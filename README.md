@@ -15,4 +15,8 @@ saf
 sad
 gg
 d
+
+
+
+okej dorobim kod 
 g
