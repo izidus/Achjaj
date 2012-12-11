@@ -20,3 +20,4 @@ d
 
 okej dorobim kod 
 g
+jeba t vsetko na svete skuvenom 
