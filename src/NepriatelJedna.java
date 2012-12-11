@@ -1,4 +1,3 @@
-
 import java.awt.Color;
 import net.useobjects.draw.drawable.GroupView;
 import net.useobjects.frame.MainWindow;
@@ -25,6 +24,14 @@ public class NepriatelJedna extends Nepriatelia{
             super.getTvar().move(5, 0);
         else
             super.getTvar().setPosition(0, super.getTvar().getPositionY());
+            
+            
+            
+            
+            
+            
+            
+            
     }
     
 }
