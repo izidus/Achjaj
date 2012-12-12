@@ -1,4 +1,3 @@
-
 import java.awt.Color;
 import net.useobjects.draw.drawable.GroupView;
 import net.useobjects.frame.MainWindow;
@@ -16,7 +15,7 @@ public class NepriatelDva extends Nepriatelia{
     
     public NepriatelDva(GroupView skupina, double x, double y, MainWindow okno){
         super(skupina,x,y,Color.blue, okno);
-        
+        dorobene
     }
 
     @Override
